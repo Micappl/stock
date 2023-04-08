@@ -1,4 +1,4 @@
-# alpha 算每年100檔台股的年化報酬率、報酬率標準差、報酬率偏態係數、報酬率峰態係數、相關係數
+# alpha 
 import yfinance as yf
 import pandas as pd
 import numpy as np
